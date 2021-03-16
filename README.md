@@ -1,7 +1,5 @@
 # HTML-basic-template
-Just a basic HTML template.
-
-with Pug Preprocessor variant
+Just a basic HTML template with Pug Preprocessor variant
 
 #Update
 
